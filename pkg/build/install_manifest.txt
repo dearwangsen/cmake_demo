@@ -1,0 +1,4 @@
+/root/c++/cmake_demo/pkg/install/lib/libpkg.a
+/root/c++/cmake_demo/pkg/install/include/pkg.h
+/root/c++/cmake_demo/pkg/install/lib/cmake/pkg/pkg-config.cmake
+/root/c++/cmake_demo/pkg/install/lib/cmake/pkg/pkg-config-noconfig.cmake

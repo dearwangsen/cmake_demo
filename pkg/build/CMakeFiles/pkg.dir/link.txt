@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpkg.a  CMakeFiles/pkg.dir/pkg.cc.o
+/usr/bin/ranlib libpkg.a
